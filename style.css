@@ -1,0 +1,25 @@
+.vinay{
+	text-align: center;
+	padding-top: 25%;
+}
+body{
+	background-image: url(https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2067&q=80);
+	background-size: cover ;
+	background-position: center;
+}
+h1{
+	color: white;
+}
+h1{
+	font-weight: 700;
+	font-size: 5em;
+}
+html{
+	height: 100%;
+}
+hr{
+	width: 400px;
+}
+h3,hr{
+	color: white;
+}
